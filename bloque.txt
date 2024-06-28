@@ -1,0 +1,1 @@
+A lo largo de este bloque he aprendido que es Git y Github, como usarlo y una serie de comandos para su uso, así como la plataforma, el uso, como agregar repos, como compartirlos y como poder agregar compañeras para trabajar los proyectos en colaborativo.
